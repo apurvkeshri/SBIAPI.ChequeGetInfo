@@ -1,1 +1,1 @@
-# SBIAPI
+# SBIAPI.ChequeGetInfo
